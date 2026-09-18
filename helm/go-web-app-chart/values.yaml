@@ -4,7 +4,7 @@ image:
   repository: sarona/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "35381348413"
+  tag: "35383606138"
 
 ingress:
   enabled: false
